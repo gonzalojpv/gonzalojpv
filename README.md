@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+I'm Gonzalo, Full-Stack Web Developer living at Chiapas . I like write code, main skill is PHP, Databases, Javascript, Web Development, and Python(jr). I'm GNU/Linux (OpenSUSE with Xfce) user.
+
+## Full-Stack Web Developer
+Since 2010, Gonzalo has been making a living as web developer, however, his interest in applications WEB + LAMP began long before.
+
+Currently I work building WebApps, creating tailored WordPress websites, applications WEB + LAMP by using frameworks(Codeigniter and Laravel) and mixtures of PHP, Javascript, Nodejs, JQuery, Vuejs, Svelte, Css, Sass, Git and such.
+
+Strong engineering professional graduated from [ITTG.](https://www.tuxtla.tecnm.mx/)
